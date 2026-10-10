@@ -12,7 +12,7 @@
   </a>
 
   <p>
-    <a href="YOUR_PORTFOLIO_URL">
+    <a href="https://awasthiprashast.github.io">
       <img src="https://img.shields.io/badge/PORTFOLIO-24292e?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://linkedin.com/in/prashast-awasthi">

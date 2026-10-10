@@ -8,7 +8,7 @@
 <div align="center">
 
   <a href="https://github.com/awasthiprashast">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=850&color=A3FF12&center=true&vCenter=true&width=800&height=50&lines=Hey+there!+I'm+Prashast+%F0%9F%98%BC;Python%2C+ML+%26+a+questionable+amount+of+coffee.+%E2%98%95;Building+intelligent+things%2C+breaking+them+occasionally.;Python+%7C+Machine+Learning+%7C+AI+Agents+%7C+Computer+Vision+%F0%9F%A4%96;Coffee+in%2C+commits+out." alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=850&color=A3FF12&center=true&vCenter=true&width=1000&height=50&lines=Hey+there!+I'm+Prashast+%F0%9F%98%BC;Python%2C+ML+%26+a+questionable+amount+of+coffee.+%E2%98%95;Building+intelligent+things%2C+breaking+them+occasionally.;Python+%7C+ML+%7C+AI+Agents+%7C+Computer+Vision+%F0%9F%A4%96;Coffee+in%2C+commits+out." alt="Typing animation" />
   </a>
 
   <p>

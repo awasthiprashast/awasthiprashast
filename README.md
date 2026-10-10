@@ -1,83 +1,120 @@
-<img src="banner.svg" width="100%" alt="Prashast Awasthi"/>
 
+<!-- ==================== BANNER ==================== -->
+<p align="center">
+  <img src="./banner.svg" width="100%" alt="Prashast Awasthi — Retro Terminal Banner" />
+</p>
+
+<!-- ==================== INTRO ==================== -->
 <div align="center">
 
-<!-- Typing animation -->
-<a href="https://github.com/awasthiprashast">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Prashast+%F0%9F%91%8B;Python+%7C+FastAPI+%7C+AWS+%7C+Computer+Vision;I+build+AI+tools+%26+IoT+systems+%F0%9F%A4%96;Currently+shipping+side+projects+%F0%9F%9A%80;Coffee+in%2C+commits+out+%E2%98%95" alt="Typing SVG" />
-</a>
+  <a href="https://github.com/awasthiprashast">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=850&color=A3FF12&center=true&vCenter=true&width=800&height=120&lines=Hey+there!+I'm+Prashast+%F0%9F%98%BC;Python%2C+ML+%26+a+questionable+amount+of+coffee.+%E2%98%95;Building+intelligent+things%2C+breaking+them+occasionally.;Python+%7C+Machine+Learning+%7C+AI+Agents+%7C+Computer+Vision+%F0%9F%A4%96;Coffee+in%2C+commits+out." alt="Typing animation" />
+  </a>
 
-<br/>
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prashast.awasthi2212@gmail.com)
+  <p>
+    <a href="YOUR_PORTFOLIO_URL">
+      <img src="https://img.shields.io/badge/PORTFOLIO-24292e?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://linkedin.com/in/prashast-awasthi">
+      <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:prashast.awasthi2212@gmail.com">
+      <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
 </div>
 
 ---
 
+<!-- ==================== ABOUT ME ==================== -->
 ## 👨‍💻 About Me
 
 ```python
 class Prashast:
     def __init__(self):
-        self.role      = "Developer & Builder"
-        self.focus     = ["AI/ML", "Computer Vision", "Cloud (AWS)", "IoT"]
-        self.currently = "Building privacy-preserving, real-time systems"
-        self.fun_fact  = "My profile picture is a thinking monkey. Deep thoughts only. 🐒"
+        self.role = "Developer & Builder"
+        self.focus = [
+            "AI/ML",
+            "Computer Vision",
+            "Cloud",
+            "Intelligent Systems"
+        ]
+        self.currently = "Turning ideas into working systems"
+        self.fun_fact = "My profile picture is a thinking monkey. Deep thoughts only. 🐒"
 
     def say_hi(self):
         return "Let's build something cool together!"
+
+me = Prashast()
 ```
 
-- 🔭 Working on **privacy-first computer vision** and **serverless cloud apps**
-- 🌱 Exploring **Terraform, MLOps and event-driven architectures**
-- 💬 Ask me about **FastAPI, Streamlit, MediaPipe, ESP32, AWS**
-- ⚡ Time zone: IST (UTC +05:30)
+I like building things that solve actual problems, from computer vision systems to AI-powered tools and cloud applications.
+
+Usually experimenting with something new, occasionally breaking something that already worked.
+
+`// currently: turning ideas into commits`
 
 ---
 
+<!-- ==================== TECH ARSENAL ==================== -->
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=py,js,ts,html,css&perline=5" alt="languages"/>
+### Languages
 
-**Backend & Cloud**<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,aws,terraform,docker&perline=5" alt="backend"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js&theme=dark" alt="Python, C++, Java and JavaScript" />
+<br/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 
-**CV, IoT & Tools**<br/>
-<img src="https://skillicons.dev/icons?i=opencv,arduino,git,github,vscode&perline=5" alt="tools"/>
+### Frameworks
+
+<img src="https://skillicons.dev/icons?i=fastapi,react&theme=dark" alt="FastAPI and React" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,postgres,aws,docker,terraform,arduino&theme=dark" alt="Git, GitHub, PostgreSQL, AWS, Docker, Terraform and Arduino" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+<!-- ==================== PROJECTS ==================== -->
+## 🚀 Projects
 
-<div align="center">
-
-| Project | What it does | Stack |
+| Project | Description | Tech Stack |
 |---|---|---|
-| 👁️ [**computer-vision-attention-monitoring**](https://github.com/awasthiprashast/computer-vision-attention-monitoring) | Privacy-preserving, real-time attention monitoring for online learning. On-device MediaPipe scoring | `Python` `FastAPI` `PostgreSQL` `Streamlit` `Terraform` |
-| 🚨 [**Adaptive-Risk-Detection-System**](https://github.com/awasthiprashast/Adaptive-Risk-Detection-System) | ESP32 multi-sensor risk detection with a live web dashboard | `ESP32` `HTML` |
-| 📦 [**Order-tracking-system**](https://github.com/awasthiprashast/Order-tracking-system) | Full-stack order & delivery tracking with role-based access and real-time status | `FastAPI` `HTML` |
-| 📱 [**social-media-content-analyzer**](https://github.com/awasthiprashast/social-media-content-analyzer) | Scores post engagement potential and suggests improvements for LinkedIn, Instagram, Facebook & X | `TypeScript` |
-| 📈 [**stock-sentiment-analyzer**](https://github.com/awasthiprashast/stock-sentiment-analyzer) | Sentiment analysis on stock-related news | `Python` |
-| ☁️ [**aws-serverless-to-do-application**](https://github.com/awasthiprashast/aws-serverless-to-do-application) | Serverless to-do app on AWS | `JavaScript` `AWS` |
-
-</div>
+| [Computer Vision Attention Monitoring](https://github.com/awasthiprashast/computer-vision-attention-monitoring) | Real-time attention analysis for online learning | `Python` `OpenCV` `MediaPipe` `Streamlit` |
+| [Adaptive Risk Detection System](https://github.com/awasthiprashast/Adaptive-Risk-Detection-System) | Multi-sensor risk detection with live dashboard | `ESP32` `HTML` |
+| [Order Tracking System](https://github.com/awasthiprashast/Order-tracking-system) | Full-stack order and delivery tracking | `FastAPI` `HTML` |
+| [Social Media Content Analyzer](https://github.com/awasthiprashast/social-media-content-analyzer) | Content engagement scoring and recommendations | `TypeScript` |
+| [Stock Sentiment Analyzer](https://github.com/awasthiprashast/stock-sentiment-analyzer) | Sentiment analysis on financial news | `Python` `FinBERT` |
+| [AWS Serverless To-Do](https://github.com/awasthiprashast/aws-serverless-to-do-application) | Serverless task management on AWS | `JavaScript` `AWS` |
 
 ---
 
+<!-- ==================== LET'S CONNECT ==================== -->
 ## 🤝 Let's Connect
 
 <div align="center">
 
-I'm always up for collaborating on **AI, cloud, or IoT** projects. Open an issue, drop a star ⭐, or send me an email!
+<p>Have an interesting idea? Let's build something cool.</p>
 
-[![Email](https://img.shields.io/badge/Say%20Hi-prashast.awasthi2212%40gmail.com-00d4aa?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prashast.awasthi2212@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prashast%20Awasthi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prashast-awasthi)
+<p>I'm always up for collaborating on <b>AI, cloud, or computer vision</b> projects. Feel free to reach out!</p>
+
+<br/>
+
+<a href="mailto:prashast.awasthi2212@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL%20ME-PRASHAST.AWASTHI2212%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=30363d" alt="Email Prashast" />
+</a>
+<a href="https://linkedin.com/in/prashast-awasthi">
+  <img src="https://img.shields.io/badge/LINKEDIN-PRASHAST%20AWASTHI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=30363d" alt="LinkedIn Prashast Awasthi" />
+</a>
+
+<br/><br/>
+
+<code>while (alive) { learn(); build(); repeat(); }</code>
 
 </div>
-

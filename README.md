@@ -10,7 +10,6 @@
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prashast.awasthi2212@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/awasthiprashast?style=for-the-badge&logo=github&color=2c5364)](https://github.com/awasthiprashast?tab=followers)
 
 </div>
 
@@ -78,6 +77,7 @@ class Prashast:
 I'm always up for collaborating on **AI, cloud, or IoT** projects. Open an issue, drop a star ⭐, or send me an email!
 
 [![Email](https://img.shields.io/badge/Say%20Hi-prashast.awasthi2212%40gmail.com-00d4aa?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prashast.awasthi2212@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prashast%20Awasthi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prashast-awasthi)
 
 </div>
 

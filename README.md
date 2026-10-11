@@ -13,13 +13,13 @@
 
   <p>
     <a href="https://awasthiprashast.github.io">
-      <img src="https://img.shields.io/badge/PORTFOLIO-24292e?style=for-the-badge&logo=firefoxbrowser&logoColor=white" height="40" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/PORTFOLIO-24292e?style=for-the-badge&logo=firefoxbrowser&logoColor=white" width="154" alt="Portfolio" />
     </a>
     <a href="https://linkedin.com/in/prashast-awasthi">
-      <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="125" alt="LinkedIn" />
     </a>
     <a href="mailto:prashast.awasthi2212@gmail.com">
-      <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email" />
+      <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="109" alt="Email" />
     </a>
   </p>
 
